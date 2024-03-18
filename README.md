@@ -3,7 +3,7 @@
 ## Current Config  
   
 LDO Leviathan MCU  
-48V for 5160s  
+24V (Issues with 48V) for 5160s  
 Dragon UHF w/PT1000  
 Vz Hextrudort  
 Beacon RevH  
